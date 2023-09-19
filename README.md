@@ -15,13 +15,13 @@ Contributions are very welcome! Please review our contributing guidelines and th
 - [eCommerce](#ecommerce)
 - [FinTech](#fintech)
 - [Games](#games)
-- [HR Tech](#hrtech)
+- [HR Tech](#hr-tech)
 - [IoT and Software](#iot-and-software)
 - [Marketing](#marketing)
 - [MedTech](#medtech)
 - [Security](#security)
 - [Travel](#travel)
-- [VR/AR](#vr/ar)
+- [VR AR](#vr-ar)
 
 ## AdTech
 | Company | Description | Locations |
@@ -162,7 +162,7 @@ Contributions are very welcome! Please review our contributing guidelines and th
 | [Holidu](https://www.holidu.com/) [:rocket:](https://www.holidu.com/careers/) | Booking and hosting of holiday homes | `Munich` |
 | [Regiondo](https://pro.regiondo.com/) [:rocket:](https://pro.regiondo.com/careers/) | All-in-one booking system made for tours, activities, and destinations | `Munich` |
 
-## VR/AR
+## VR AR
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
 | [ICAROS](https://www.icaros.com/en/) [:rocket:]() | Innovator in the field of virtual reality fitness and therapy equipment | `Munich` |
