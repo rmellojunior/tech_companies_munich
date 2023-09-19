@@ -1,5 +1,11 @@
 # Tech Munich :de:
 
+A list of companies in or around tech, operating in Munich.
+
+Are you seeking for a job? Click 🚀 to check the company's careers page.
+
+Contributions are very welcome! Please review our contributing guidelines and then submit a new entry or update.
+
 ### Categories:
 - [AdTech](#adtech)
 - [Apps](#apps)
@@ -42,8 +48,8 @@
 | [SIXT](https://www.sixt.de/) [:rocket:](https://www.sixt.jobs/en/) | Provider of high-quality mobility services | `Munich` |
 
 ## BigTech
-| Company | Description | Locations |
-| :------ | :---------- | :-------- |
+| Company | Description |
+| :------ | :---------- |
 | [Adobe](https://www.adobe.com/) [:rocket:](https://careers.adobe.com/us/en/) | Digital media and digital marketing solutions |
 | [BMW](https://www.bmwgroup.com/en.html) [:rocket:](https://www.bmwgroup.jobs/en.html) | Manufacturer of automobiles and motorcycles and also provides premium financial and mobility services |
 | [Cisco](https://www.cisco.com/) [:rocket:](https://jobs.cisco.com/jobs/) | Cisco hardware, software, and service |
@@ -163,3 +169,5 @@
 | [Inflight VR](https://www.inflight-vr.com/) [:rocket:](https://www.inflight-vr.com/about#careers) | Enabling the Metaverse through VR in airplanes and the travel & hospitality industry | `Munich` |
 | [Innoactive](https://www.innoactive.io/) [:rocket:](https://www.innoactive.io/career/) | Enterprise SaaS platform for global XR deployment, training, visualization and digital twin | `Munich` |
 | [ICAROS](https://www.icaros.com/en/) [:rocket:]() | Innovator in the field of virtual reality fitness and therapy equipment | `Munich` |
+
+Inspired by [munich-tech-map](https://blog.honeypot.io/munich-tech-map/) and others github repos with the same purpouses. Thank you!
