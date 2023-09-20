@@ -4,7 +4,7 @@ A list of companies in or around tech, operating in Munich.
 
 Are you seeking for a job? Click 🚀 to check the company's careers page.
 
-Contributions are very welcome! Please review our contributing guidelines and then submit a new entry or update.
+Contributions are very welcome! Please review our [contributing guidelines](CONTRIBUTING.md) and then submit a new entry or update.
 
 ### Categories:
 - [AdTech](#adtech)
