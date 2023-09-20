@@ -170,4 +170,4 @@ Contributions are very welcome! Please review our [contributing guidelines](CONT
 | [Innoactive](https://www.innoactive.io/) [:rocket:](https://www.innoactive.io/career/) | Enterprise SaaS platform for global XR deployment, training, visualization and digital twin | `Munich` |
 | [ICAROS](https://www.icaros.com/en/) [:rocket:]() | Innovator in the field of virtual reality fitness and therapy equipment | `Munich` |
 
-Inspired by [munich-tech-map](https://blog.honeypot.io/munich-tech-map/) and others github repos with the same purpose. Thank you!
+Inspired by [munich-tech-map](https://blog.honeypot.io/munich-tech-map/) and others github repos with the same purpose (e.g. [tech-companies-in-portugal](https://github.com/marmelo/tech-companies-in-portugal), [remote-jobs-germany](https://github.com/danielbayerlein/remote-jobs-germany)). Thank you!
