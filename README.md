@@ -40,10 +40,9 @@ Contributions are very welcome! Please review our [contributing guidelines](CONT
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
 | [BetterTaxi](https://www.bettertaxi.com/) [:rocket:](https://www.bettertaxi.com/jobs/) | Taxi and airport transfer services | `Munich` |
-| [FAZUA](https://fazua.com/en/) [:rocket:](https://fazua.com/en/company/jobs/) | Pioneering technology and passionate people for #BetterRides | `Ottobrunn` |
-| [Fleetster](https://www.fleetster.net/) [:rocket:](https://www.fleetster.net/fleetster-team/) | Fleet management and Car Sharing software and technology | `Munich` |
+| [FAZUA](https://fazua.com/en/) [:rocket:](https://fazua.com/en/company/jobs/) | Pioneering technology and passionate people for #BetterRides | `Munich` |
+| [Fleetster](https://www.fleetster.net/) [:rocket:](https://fleetster.breezy.hr/) | Fleet management and Car Sharing software and technology | `Munich` |
 | [FlixBus](https://www.flixbus.de/) [:rocket:](https://flix.careers/job) | Smart and green mobility for everyone to experience the world | `Munich` |
-| [GOVECS Group](https://www.govecsgroup.com/) [:rocket:](https://www.govecsgroup.com/en/company/carreer) | E-mobility solutions | `Munich` |
 | [ParkHere](https://park-here.eu/) [:rocket:](https://park-here.eu/karriere/) | Smart High-Tech Solutions for Digital Parking Management | `Munich` |
 | [SIXT](https://www.sixt.de/) [:rocket:](https://www.sixt.jobs/en/) | Provider of high-quality mobility services | `Munich` |
 
@@ -83,7 +82,7 @@ Contributions are very welcome! Please review our [contributing guidelines](CONT
 | [givve](https://givve.com/en/) [:rocket:](https://givve.com/de/karriere/) | Tax free benefits for your employees or B2B incentives for your clients and business partners | `Munich` |
 | [limango](https://www.limango.de/ehp) [:rocket:](https://www.limango.de/jobs/) | Online shop | `Munich` |
 | [lingoking](https://www.lingoking.com/en/) [:rocket:](https://www.lingoking.com/en/about-us/jobs) | Universal platform for language services | `Munich` |
-| [Mytheresa](https://www.mytheresa.com/) [:rocket:](https://career.mytheresa.com/en/) | Technology meets luxury in a space that celebrates both creativity and digital advancement | `Munich` |
+| [Mytheresa](https://www.mytheresa.com/) [:rocket:](https://career.mytheresa.com/en/open-positions/) | Technology meets luxury in a space that celebrates both creativity and digital advancement | `Munich` |
 | [Planet Sports](https://www.planet-sports.de) [:rocket:](https://www.planet-sports.de/c/planet-sports-inside/jobs/) | e-commerce company  | `Munich` |
 | [Scout24](https://www.scout24.com/en/) [:rocket:](https://www.scout24.com/en/career/jobs) | ImmoScout24, an online platform for residential and commercial real estate  | `Munich` |
 | [VITAFY](https://vitafybrands.de/) [:rocket:](https://vitafybrands.de/) | Nutrition products for enthusiastic sports and food lovers  | `Munich` |
@@ -102,27 +101,27 @@ Contributions are very welcome! Please review our [contributing guidelines](CONT
 ## Games
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
-| [MegaZebra](https://www.megazebra.com/) [:rocket:](https://www.megazebra.com/careers/) | Mobile gaming | `Munich` |
-| [Travian Games](https://traviangames.com/en/) [:rocket:](https://www.traviangames.com/en/career/) | Computer games | `Munich` |
+| [MegaZebra](https://www.megazebra.com/) [:rocket:](https://www.megazebra.com/careers/open-positions/) | Mobile gaming | `Munich` |
+| [Travian Games](https://traviangames.com/en/) [:rocket:](https://traviangames.com/en/jobs/) | Computer games | `Munich` |
 
 ## HR Tech
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
-| [Cobrainer](https://www.cobrainer.com/) [:rocket:](https://www.cobrainer.com/open-position/) | Skills management, recruiting automation, up-skilling, and talent development | `Munich` |
+| [Cobrainer](https://www.cobrainer.com/) [:rocket:](https://www.cobrainer.com/open-position#career) | Skills management, recruiting automation, up-skilling, and talent development | `Munich` |
 | [Personio](https://www.personio.com/) [:rocket:](https://www.personio.com/about-personio/careers/) | All-in-one HR software | `Munich` |
-| [Speexx](https://www.speexx.com/) [:rocket:](https://www.speexx.com/careers/) | Digital language training, business coaching, and skills assessment | `Munich` |
+| [Speexx](https://www.speexx.com/) [:rocket:](https://www.speexx.com/all-jobs/) | Digital language training, business coaching, and skills assessment | `Munich` |
 
 ## IoT and Software
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
 | [Bragi](https://www.bragi.com/) [:rocket:](https://www.bragi.com/careers/) | The Experience Layer for Audio Devices | `Munich` |
 | [Cosinuss](https://www.cosinuss.com/en/) [:rocket:](https://www.cosinuss.com/en/jobs/) | Mobile Vital Signs Company - Enabling anybody to assess and manage health & fitness | `Munich` |
-| [EGYM DACH](https://egym.com/de/) [:rocket:](https://egym.com/uk/careers) | Global fitness technology providing fitness and health facilities with intelligent workout solutions | `Munich` |
+| [EGYM DACH](https://egym.com/de/) [:rocket:](https://egym.com/us/jobs) | Global fitness technology providing fitness and health facilities with intelligent workout solutions | `Munich` |
 | [KINEXON](https://kinexon.com/) [:rocket:](https://kinexon.com/jobs/) | Technology solutions that add real-time value in industries, logistics & sports | `Munich` |
 | [KONUX](https://kinexon.com/) [:rocket:](https://www.konux.com/careers/) | Transform Railway Operations for a Sustainable Future | `Munich` |
-| [ProGlove](https://kinexon.com/) [:rocket:](https://proglove.com/careers/) | Industrial wearables to connect the human worker with the Industrial IoT | `Munich` |
+| [ProGlove](https://kinexon.com/) [:rocket:](https://proglove.com/careers/#open-positions) | Industrial wearables to connect the human worker with the Industrial IoT | `Munich` |
 | [tacterion](https://www.tacterion.com/) [:rocket:](https://www.tacterion.com/company/career/) | High-Tech sensors for a tactile world | `Munich` |
-| [tado°](https://www.tado.com/de-en) [:rocket:](https://apply.workable.com/tado/) | Intelligent home climate management | `Munich` |
+| [tado°](https://www.tado.com/de-en) [:rocket:](https://apply.workable.com/tado/#jobs) | Intelligent home climate management | `Munich` |
 | [3megawatt by Power Factors](https://powerfactors.com/) [:rocket:](https://powerfactors.com/careers/) | Provider of software, methodology and support for renewable asset management | `Munich` |
 | [Elgato](https://www.elgato.com/us/en/) [:rocket:](https://www.elgato.com/us/en/s/careers) | Audio-visual technology | `Munich` |
 | [innosabi](https://innosabi.com/) [:rocket:](https://innosabi.com/career/) | Develops software for agile innovation | `Munich` |
@@ -145,7 +144,7 @@ Contributions are very welcome! Please review our [contributing guidelines](CONT
 ## MedTech
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
-| [Brainlab](https://www.brainlab.com/) [:rocket:](https://www.brainlab.com/career/) | Making an impact on patient lives with our medical technologies | `Munich` |
+| [Brainlab](https://www.brainlab.com/) [:rocket:](https://www.brainlab.com/career/jobs/) | Making an impact on patient lives with our medical technologies | `Munich` |
 | [jameda](https://www.jameda.de/) [:rocket:](https://www.docplanner.com/career/) | Health online portal | `Munich` |
 | [ottonova](https://www.ottonova.de/) [:rocket:](https://www.ottonova.de/unternehmen/jobs/) | Digital health insurance company | `Munich` |
 
@@ -159,7 +158,7 @@ Contributions are very welcome! Please review our [contributing guidelines](CONT
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
 | [HolidayCheck](https://www.holidaycheckgroup.com/?lang=en) [:rocket:](https://holidaycheck.jobs.personio.de/?language=en) | Travel arrangements | `Munich` |
-| [Holidu](https://www.holidu.com/) [:rocket:](https://www.holidu.com/careers/) | Booking and hosting of holiday homes | `Munich` |
+| [Holidu](https://www.holidu.com/) [:rocket:](https://www.holidu.com/careers/list) | Booking and hosting of holiday homes | `Munich` |
 | [Regiondo](https://pro.regiondo.com/) [:rocket:](https://pro.regiondo.com/careers/) | All-in-one booking system made for tours, activities, and destinations | `Munich` |
 
 ## VR AR
